@@ -1,0 +1,21 @@
+[submodule "shared-makefile"]
+	path = shared-makefile
+	url = https://github.com/k2snowman69/shared-makefile
+[submodule "threadily"]
+	path = threadily
+	url = https://github.com/k2snowman69/threadily
+[submodule "threadily-sample-cpp"]
+	path = threadily-sample-cpp
+	url = https://github.com/k2snowman69/threadily-sample-cpp
+[submodule "threadily-sample-cpp-test"]
+	path = threadily-sample-cpp-test
+	url = https://github.com/k2snowman69/threadily-sample-cpp-test
+[submodule "bandit"]
+	path = bandit
+	url = https://github.com/banditcpp/bandit
+[submodule "threadily-sample-js"]
+	path = threadily-sample-js
+	url = https://github.com/k2snowman69/threadily-sample-js
+[submodule "threadily-sample-js-test"]
+	path = threadily-sample-js-test
+	url = https://github.com/k2snowman69/threadily-sample-js-test
