@@ -11,6 +11,7 @@ jobs:
       - run:
           name: Checkout branch
           command: |
+            cd ./threadily-sample
             git fetch --all
             git checkout ${CIRCLE_BRANCH}
             git submodule update --init --recursive
